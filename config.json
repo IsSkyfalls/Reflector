@@ -1,0 +1,8 @@
+{
+  "listeners": [25565,25566],
+  "maxConnections": 64,
+  "mappings": {
+    "hyp.example.com": "mc.hypixel.net",
+    "mp.example.xyz": "us.mineplex.com"
+  }
+}
